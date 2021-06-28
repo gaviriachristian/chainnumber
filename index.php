@@ -34,7 +34,7 @@
             <br><span class="display-4"><?= count_the_89s(); ?></span></h3>
 
         <p class="lead">
-            <a href="https://github.com/gaviriachristian/chainnumber" target="_blank" class="btn btn-lg btn-secondary">Open in GitLab</a>
+            <a href="https://github.com/gaviriachristian/chainnumber" target="_blank" class="btn btn-lg btn-secondary">Open in GitHub</a>
         </p>
 
     </main>
